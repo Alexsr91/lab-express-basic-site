@@ -1,0 +1,15 @@
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pic{
+    width: 200px;
+    height: 200px;
+    color: grey;
+}
+
+img{
+    max-width:100%;
+    object-fit: cover;
+}
